@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!i'm kdj!
+
+21/01/08 i'm learning how to using github, i'm looking forward to improving my programming ability.
